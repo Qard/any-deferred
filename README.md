@@ -1,5 +1,7 @@
 # any-deferred
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/any-deferred.svg)](https://greenkeeper.io/)
+
 A deferred promise implementation based on any-promise.
 
 ## Install
